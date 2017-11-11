@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MagicLewShip
+comment1.params=
+comment1.target=MagicLewShip()
+comment2.params=initialName\ initialSpeed
+comment2.target=MagicLewShip(java.lang.String,\ int)
+comment3.params=
+comment3.target=double\ calcAverageLuminosity()
+comment4.params=
+comment4.target=int\ getMaxLuminosity()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

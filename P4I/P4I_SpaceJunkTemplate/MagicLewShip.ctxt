@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MagicLewShip
+comment1.params=
+comment1.target=MagicLewShip()
+comment2.params=initialName\ initialSpeed
+comment2.target=MagicLewShip(java.lang.String,\ int)
+comment3.params=minAltitude
+comment3.target=int\ removeSpaceJunk(int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

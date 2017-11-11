@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LogMessage
+comment1.params=message
+comment1.target=LogMessage(java.lang.String)
+comment2.params=keyword
+comment2.target=boolean\ containsWord(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMachineID()
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=message
+comment5.target=void\ setMessage(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

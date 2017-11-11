@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SpaceJunk
+comment1.params=initialAltitude
+comment1.target=SpaceJunk(int)
+comment2.params=newAltitude
+comment2.target=void\ setAltitude(int)
+comment3.params=
+comment3.target=int\ getAltitude()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
